@@ -4,7 +4,7 @@
 - RightClickEvent will activate Logging, info is saved to Desktop path
 - used in MCP-Records Project
 
-# How to use #
+### How to use ###
 
 - Copy .jar in Mods folder
 - Use Forge 1.20.4
