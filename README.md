@@ -10,3 +10,5 @@
 - Use Forge 1.20.4
 - On any server, perform rightClickEvent, clicking an item in hand to activate ToolTip recording
 - Hover over any item in any inventory, displayed data will be saved to your Desktop
+
+### Coded for MCP records project, see the [Repository](https://fflopse.github.io/MCP-Records/) ###
