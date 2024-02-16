@@ -8,5 +8,5 @@
 
 - Copy .jar in Mods folder
 - Use Forge 1.20.4
-- On any server, perform rightClick an item in hand to activate ToolTip recording
+- On any server, perform rightClickEvent, clicking an item in hand to activate ToolTip recording
 - Hover over any item in any inventory, displayed data will be saved to your Desktop
