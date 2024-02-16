@@ -1,0 +1,13 @@
+/.DS_Store
+/.gradle
+/.idea
+/.vscode
+/LICENSE
+/bin
+/build
+/build.gradle
+/gradle
+/gradlew
+/gradlew.bat
+/run
+/settings.gradle
